@@ -22,4 +22,5 @@ public class SmartDevice {
                 ", pixelsCamara=" + pixelsCamara +
                 '}';
     }
+
 }
