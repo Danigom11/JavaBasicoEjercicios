@@ -8,6 +8,5 @@ public class Main {
         cocheCrud.save();
         cocheCrud.findAll();
         cocheCrud.delete();
-
     }
 }
