@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ccd671c-9594-41f4-94dd-4f33e06204ff" name="Changes" comment="ejercicio4">
-      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio5/CocheCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio5/CocheCRUDImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio5/Main.java" afterDir="false" />
+    <list default="true" id="2ccd671c-9594-41f4-94dd-4f33e06204ff" name="Changes" comment="ejercicio5">
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicios789/ArrayBidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicios789/ArrayUnidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicios789/CadenaAlReves.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio4/SmartDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio4/SmartDevice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,46 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ejercicios.ejercicio5.Main">
+  <component name="RunManager" selected="Application.ArrayBidimensional">
+    <configuration name="ArrayBidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicios789.ArrayBidimensional" />
+      <module name="JavaBasicoEjercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.ejercicios789.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayUnidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicios789.ArrayUnidimensional" />
+      <module name="JavaBasicoEjercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.ejercicios789.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadenaAlReves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicios789.CadenaAlReves" />
+      <module name="JavaBasicoEjercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.ejercicios789.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio4.Main" />
       <module name="JavaBasicoEjercicios" />
@@ -76,6 +114,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayBidimensional" />
+        <item itemvalue="Application.ArrayUnidimensional" />
+        <item itemvalue="Application.CadenaAlReves" />
         <item itemvalue="Application.ejercicios.ejercicio5.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -125,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666679420032</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ejercicio4">
+      <created>1666773410764</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666773410764</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ejercicio5">
+      <created>1666773470108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666773470108</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +199,7 @@
     <MESSAGE value="ejercicio1" />
     <MESSAGE value="ejercicio3" />
     <MESSAGE value="ejercicio4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio4" />
+    <MESSAGE value="ejercicio5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio5" />
   </component>
 </project>
