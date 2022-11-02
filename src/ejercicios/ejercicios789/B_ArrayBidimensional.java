@@ -1,6 +1,6 @@
 package ejercicios.ejercicios789;
 
-public class ArrayBidimensional {
+public class B_ArrayBidimensional {
     public static void main(String[] args) {
         int cadena[][] = {
                 {1, 2},

@@ -1,6 +1,6 @@
 package ejercicios.ejercicios789;
 
-public class ArrayUnidimensional {
+public class A_ArrayUnidimensional {
     public static void main(String[] args) {
         String[] arrayUnidimensional = {
                 "Uno",

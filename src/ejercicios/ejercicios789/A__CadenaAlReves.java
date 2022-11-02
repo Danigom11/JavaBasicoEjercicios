@@ -1,6 +1,6 @@
 package ejercicios.ejercicios789;
 
-public class CadenaAlReves {
+public class A__CadenaAlReves {
 
     public static void main(String[] args) {
         System.out.println(reverse("hola mundo"));
